@@ -65,9 +65,11 @@ You're reading it!
 The code for this step is contained in the first code cell of the IPython notebook Vehicle-Detection.ipynb.
 
 Here are some examples of `vehicle` classes:
+
 ![alt text][cars_examples]
 
 and `non-vehicle` class:
+
 ![alt text][noncars_examples]
 
 
