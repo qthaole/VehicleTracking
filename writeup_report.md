@@ -23,8 +23,8 @@ The goals / steps of this project are the following:
 [noncars_examples]: ./noncars_examples.png
 
 
-[scv1]: ./scv1.png
-[scv2]: ./scv2.png
+[scv1]: ./svc1.png
+[scv2]: ./svc2.png
 
 [cnn1]: ./cnn1.png
 [cnn2]: ./cnn2.png
