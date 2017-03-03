@@ -64,17 +64,11 @@ You're reading it!
 
 The code for this step is contained in the first code cell of the IPython notebook Vehicle-Detection.ipynb.
 
-Here is an example of `vehicle` and `non-vehicle` classes:
-
-
+Here are some examples of `vehicle` classes:
 ![alt text][cars_examples]
 
+and `non-vehicle` class:
 ![alt text][noncars_examples]
-
-Here are some examples of 
-
-
-
 
 
 I then explored different color spaces and different `skimage.hog()` parameters (`orientations`, `pixels_per_cell`, and `cells_per_block`).  I grabbed random images from each of the two classes and displayed them to get a feel for what the `skimage.hog()` output looks like.
